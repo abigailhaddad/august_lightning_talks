@@ -2,8 +2,8 @@
 
 * This is a repo for information about the August Lightning Talk event with Data Science DC. 
 * If you're a speaker and you want info added, please email me or make a pull request. 
-
-## I'm also looking for locations that can accomodate a big group and are, ideally, in downtown DC or Arlington
+* As we get closer to the date, I'll add speakers/talk names and, if you have a repo you want to link to with slides or anything else, we'll do that
+* I'm also looking for locations that can accomodate a big group and are, ideally, in downtown DC or Arlington
 
 ## Some resources about giving lightning talks:
 
