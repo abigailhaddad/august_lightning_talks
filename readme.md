@@ -16,3 +16,13 @@
 >One of the best tactics is to make your point as early in the talk as humanly possible. You might need to set up the problem space, explain why you were doing what you were doing before you can explain your point. Fine, but do it quickly. You really shouldn’t spend more than a minute explaining the background before you make your first point. If you haven’t explained the main point by minute three you’re probably up the proverbial creek without the paddle.
 
 ## Talk Names/Speakers/Descriptions
+
+Dr. Rebecca Bilbro, Founder/CTO at Rotational Labs, challenges the traditional machine learning workflow and offers a quick tour of an open dataset repository for real-time data science projects.
+
+Alex Gurvich, NASA Data Visualization Specialist, uses elements of data storytelling in support of the newly opened Earth Information Center to better communicate how NASA's mission extends beyond space to study the Earth.
+
+Llewellyn Jones, Accenture Data Scientist and journalist with Investigative Economics, details the benefits of applying statistics in journalism and possibilities in finding stories with data.
+
+Dr. John Kaufhold, Data Community DC advisor and startup founder, will explain the significance of one obscure, yet crucial, equation in the Attention is All You Need paper, particularly focusing on one-hot encodings.
+
+Chandana Sapparapu, Lead ML Engineer at Sunayu, will talk about getting an LLM to answer questions about your unstructured data using text embeddings plus vector databases.
