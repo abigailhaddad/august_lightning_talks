@@ -3,7 +3,6 @@
 # August 22 Lightning Talks: Data Science DC
 
 * This is a repo for information about the August Lightning Talk event with Data Science DC. 
-* I'm also looking for locations that can accomodate a big group and are, ideally, in downtown DC or Arlington
 
 ## Some resources about giving lightning talks:
 
