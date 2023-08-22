@@ -26,12 +26,8 @@ Alex Gurvich, NASA Data Visualization Specialist, uses elements of data storytel
 
 Llewellyn Jones, Accenture Data Scientist and journalist with Investigative Economics, details the benefits of applying statistics in journalism and possibilities in finding stories with data.
 
-Hope McIntyre, an ML Engineer with nearly a decade of experience building models and data and ML systems, will present on the key components of a high functioning, production ML system.
-
-Priyanka Oberoi, ML at Axios HQ, will talk about AI observability in production and how we monitor AI system behavior across open source LLMs, 3rd party LLMs (like OpenAI and Anthropic) and other ML models.
-
 George Rooney, Senior Machine Learning Engineer at Fable, will discuss LoRA, a method that makes adapting large neural networks like GPT-3 and Stable Diffusion more feasible by significantly reducing trainable parameters and GPU memory requirements.
 
 Chandana Sapparapu, Lead ML Engineer at Sunayu, will talk about getting an LLM to answer questions about your unstructured data using text embeddings plus vector databases.
 
-Professor Jennifer Sleeman will talk about neuro-symbolic learning, its role in scientific discovery, and how LLMs can take this work to a new level of understanding scientific language.t Sunayu, will talk about getting an LLM to answer questions about your unstructured data using text embeddings plus vector databases.
+Professor Jennifer Sleeman will talk about neuro-symbolic learning, its role in scientific discovery, and how LLMs can take this work to a new level of understanding scientific language.
